@@ -25,6 +25,9 @@
 	url = https://github.com/openxc/openxc-message-format
 	branch = master
 	ignore = untracked
+[submodule "src/libs/nanopb"]
+	path = src/libs/nanopb
+	url = https://github.com/nanopb/nanopb
 [submodule "src/libs/bitfield-c"]
 	path = src/libs/bitfield-c
 	url = https://github.com/openxc/bitfield-c
